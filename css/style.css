@@ -113,7 +113,7 @@ footer{
     }
     .image-work{
         flex-direction: column;
-        width: 100vh;
+        
     }
     .noteee{
         margin-left: -9rem;
@@ -145,6 +145,6 @@ footer{
         margin-bottom: 4rem;
     }
    .image-cover > img{
-   margin: auto;
+   margin-right: 3rem;
    }
 }
