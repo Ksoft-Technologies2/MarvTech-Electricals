@@ -115,6 +115,9 @@ gap: 2rem;
     .Pic-Parent{
         flex-direction: column;
     }
+    .pics{
+        margin-left: -4rem;
+    }
     .kitchen{
       margin-top: -50rem;
       margin-left: 10rem;
