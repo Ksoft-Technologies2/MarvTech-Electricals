@@ -12,9 +12,6 @@ body{
     margin-right: 6rem;
     margin-left: 4rem;
 }
-.btn{
-    margin-right: 16rem;
-}
 .nav-link:hover{
     color: yellow !important;
 }
@@ -60,6 +57,5 @@ body{
     .navbar-brand > img {
         margin-left: -0.5rem;
     }
-
     
 }
