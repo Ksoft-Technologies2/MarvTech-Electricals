@@ -9,8 +9,8 @@ body{
 }
 .navbar-brand > img {
     height: 10vh;
-    margin-right: 9rem;
-    margin-left: 9rem;
+    margin-right: 6rem;
+    margin-left: 4rem;
 }
 .btn{
     margin-right: 16rem;
@@ -80,4 +80,58 @@ gap: 2rem;
     height: 10vh;
     width: 50vh;
     margin-left: 4rem;
+}
+.Connect{
+    background-color: #ccc;
+    text-align: center;
+    height: 60vh;
+    margin-top: 4rem;
+    padding-top: 8rem;
+}
+.icon-div{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.icons > img{
+    height: 10vh;
+}
+.wha > img{
+    height: 2vh;
+}
+.fbb > img{
+    height: 2vh;
+}
+.avif > img{
+    height: 2vh;
+}
+
+
+@media screen and (max-width: 600px) {
+    .navbar-brand > img {
+        margin-left: -0.5rem;
+    }
+    .Pic-Parent{
+        flex-direction: column;
+    }
+    .kitchen{
+      margin-top: -50rem;
+      margin-left: 10rem;
+      height: 10vh;
+      width: 20rem;
+    }
+    .restaurant{
+      margin-top: -26.5rem;
+      margin-right: 40rem;
+      margin-left: -15rem;
+      height: 10vh;
+      width: 20rem;
+    }
+    .bathroom{
+        margin-left: -49rem;
+     height: 10vh;
+     width: 20rem;
+    }
+    
 }
