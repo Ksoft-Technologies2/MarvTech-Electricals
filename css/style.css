@@ -108,7 +108,7 @@ gap: 2rem;
 }
 
 
-@media screen and (max-width: 200px) {
+@media screen and (max-width: 480px) {
     .navbar-brand > img {
         margin-left: -0.5rem;
     }
