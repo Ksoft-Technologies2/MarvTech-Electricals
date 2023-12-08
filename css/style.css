@@ -119,23 +119,8 @@ gap: 2rem;
         margin-left: -4rem;
         width: 100% !important;
     }
-    .kitchen{
-      margin-top: -43rem;
-      margin-left: 2rem;
-      height: 10vh;
-      width: 20rem;
-    }
-    .restaurant{
-      margin-top: -26.5rem;
-      margin-right: 40rem;
-      margin-left: -15rem;
-      height: 10vh;
-      width: 20rem;
-    }
-    .bathroom{
-        margin-left: -49rem;
-     height: 10vh;
-     width: 20rem;
-    }
+   .text-parent{
+    display: block;
+   }
     
 }
