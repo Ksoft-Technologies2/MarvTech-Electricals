@@ -117,11 +117,11 @@ gap: 2rem;
     }
     .pics{
         margin-left: -4rem;
-        width: 5vh;
+        width: 100% !important;
     }
     .kitchen{
-      margin-top: -50rem;
-      margin-left: 10rem;
+      margin-top: -43rem;
+      margin-left: 2rem;
       height: 10vh;
       width: 20rem;
     }
