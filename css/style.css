@@ -51,7 +51,30 @@ body{
 .avif > img{
     height: 2vh;
 }
-
+.capture-parent > img{
+    height: 70vh;
+    width: 300vh;
+}
+.capture-parent > h1{
+    color: orangered;
+    margin-top: -19rem;
+    text-align: center;
+    font-size: 50px;
+}
+.another-section{
+    margin-top: 15rem;
+    padding: 2rem;
+}
+.overview > h2{
+    text-align: center;
+}
+.overview > p{
+    text-align: center;
+    text-align: left;
+}
+.mission > h2{
+    text-align: center;
+}
 
 @media screen and (max-width: 600px) {
     .navbar-brand > img {
