@@ -81,7 +81,13 @@ body{
 .vision > h2,p{
     text-align: center;
 }
-
+.carousel-item > img{
+    height: 70vh;
+}
+.carousel-caption > h5{
+    font-size: 50px;
+    color: blue;
+}
 @media screen and (max-width: 600px) {
     .navbar-brand > img {
         margin-left: -0.5rem;
