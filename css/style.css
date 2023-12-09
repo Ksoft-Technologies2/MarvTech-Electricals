@@ -72,7 +72,13 @@ body{
     text-align: center;
     text-align: left;
 }
+.other-section{
+    padding: 2rem;
+}
 .mission > h2{
+    text-align: center;
+}
+.vision > h2,p{
     text-align: center;
 }
 
